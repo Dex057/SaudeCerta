@@ -35,7 +35,7 @@ Resumindo o que o sistema precisa resolver:
 - Registrar quem acessou ou alterou o prontuário de cada paciente.
 - Reduzir o retrabalho da recepção ao lidar com remarcações e cancelamentos.
 
-O ponto de tensão que essa entrega já deixa claro é o seguinte: quanto mais forte for o controle de segurança e auditoria sobre o prontuário, mais passos isso pode adicionar ao fluxo da recepção e ao tempo de resposta do sistema. A arquitetura vai precisar equilibrar isso, e não simplesmente maximizar segurança ignorando o resto.
+> **Tensão central:** quanto mais forte for o controle de segurança e auditoria sobre o prontuário, mais passos isso pode adicionar ao fluxo da recepção e ao tempo de resposta do sistema. A arquitetura vai precisar equilibrar isso, e não simplesmente maximizar segurança ignorando o resto.
 
 ## 3. Stakeholders
 
