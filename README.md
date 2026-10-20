@@ -12,7 +12,7 @@ Sistema web multicamadas para digitalizar o fluxo de atendimento de uma clínica
 ## Entregas
 
 - [x] **E1** — Documento de Visão e Requisitos: [`docs/E1-Documento-de-Visao-e-Requisitos.md`](docs/E1-Documento-de-Visao-e-Requisitos.md)
-- [ ] **E2** — Projeto Arquitetural (C4, ADRs, matriz de rastreabilidade)
+- [x] **E2** — Projeto Arquitetural (C4, ADRs, matriz de rastreabilidade): [`docs/E2-Projeto-Arquitetural.md`](docs/E2-Projeto-Arquitetural.md) ([PDF](docs/E2-Projeto-Arquitetural.pdf))
 - [ ] **E3** — Protótipo em Spring Boot
 - [ ] **Projeto Final** — Arquitetura baseada em serviços
 
