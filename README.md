@@ -36,10 +36,12 @@ src/                  código Spring Boot (a partir do E3)
 
 ## Como trabalhamos
 
-1. Pegue uma issue sua. Cada uma diz o que fazer, em que branch e quando está pronta.
+As tarefas ficam no [quadro do E2](https://github.com/users/Dex057/projects/2/views/2): Bloqueada → A fazer → Em andamento → Em revisão → Concluída. Para ver só as suas, filtre por `label:resp:seunome`.
+
+1. Pegue uma issue sua e mova para "Em andamento". Cada issue diz o que fazer, em que branch e quando está pronta.
 2. Crie a branch a partir da principal: `git checkout -b e2-nome-da-tarefa`.
 3. Faça commits pequenos, com mensagem clara: `E2: adiciona alternativas ao ADR-004`.
-4. Abra um Pull Request com `Closes #N` na descrição e peça revisão a quem revisa você (tabela acima).
+4. Abra um Pull Request com `Closes #N` na descrição e peça revisão a quem revisa você (tabela acima). Mova a issue para "Em revisão".
 5. Só entra na branch principal depois de revisado. No fim da entrega: `git tag E2 && git push --tags`.
 
 Nunca suba senha, chave ou `target/`. Dúvidas sobre a tarefa ficam na própria issue.
