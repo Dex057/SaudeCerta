@@ -8,9 +8,9 @@ Sistema web multicamadas para digitalizar o fluxo de atendimento de uma clínica
 
 | Integrante | Frente no E2 | ADRs sob responsabilidade | Revisa os PRs de |
 |---|---|---|---|
-| Edson Davi Farias Martins | Coordenação, auditoria, implantação e cenários de qualidade | ADR-001, ADR-002 | Vergílio |
-| Marcus Carreira Júnior | Diagramas C4 (draw.io) e modelo de domínio | ADR-003, ADR-006 | Edson |
-| Vergílio Junior | Contrato REST, segurança e rastreabilidade | ADR-004, ADR-005 | Marcus |
+| Edson Davi Farias Martins ([@Dex057](https://github.com/Dex057)) | Coordenação, auditoria, implantação e cenários de qualidade | ADR-001, ADR-002 | Vergílio |
+| Marcus Carreira Júnior ([@MarcusCarreiraJr](https://github.com/MarcusCarreiraJr)) | Diagramas C4 (draw.io) e modelo de domínio | ADR-003, ADR-006 | Edson |
+| Vergílio Junior ([@vergiliojunior123-png](https://github.com/vergiliojunior123-png)) | Contrato REST, segurança e rastreabilidade | ADR-004, ADR-005 | Marcus |
 
 ## Entregas
 
