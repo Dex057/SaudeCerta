@@ -17,9 +17,21 @@ Sistema web multicamadas para digitalizar o fluxo de atendimento de uma clínica
 Cada entrega acrescenta ao repositório e é marcada com uma tag.
 
 - [x] **E1** — Visão e Requisitos (tag [`E1`](../../tree/E1)): [`docs/visao.md`](docs/visao.md), [`docs/requisitos.md`](docs/requisitos.md)
-- [ ] **E2** — Projeto Arquitetural (em andamento, ver [issues](../../issues?q=is%3Aissue+milestone%3AE2)): [`docs/arquitetura.md`](docs/arquitetura.md), [`docs/adr/`](docs/adr/README.md), [`docs/rastreabilidade.md`](docs/rastreabilidade.md)
+- [ ] **E2** — Projeto Arquitetural, **prazo 11/11/2026** (em andamento, ver [issues](../../issues?q=is%3Aissue+milestone%3AE2)): [`docs/arquitetura.md`](docs/arquitetura.md), [`docs/adr/`](docs/adr/README.md), [`docs/rastreabilidade.md`](docs/rastreabilidade.md)
 - [ ] **E3** — Protótipo em Spring Boot (`src/`)
 - [ ] **Projeto Final** — Arquitetura baseada em serviços
+
+## Cronograma do E2
+
+| Até | Meta | Issues |
+|---|---|---|
+| Sáb 07/11 | Merge dos PRs de organização e de melhorias do E1; convites aceitos | PR #1, PR #2, #3 |
+| Dom 08/11 | Decisões independentes prontas, com PR aberto | #4, #5, #7, #9, #10, #11, #12, #13 |
+| Seg 09/11 | Dependentes das anteriores | #6, #8 |
+| Ter 10/11 | Matriz fechada e documentos lidos em sequência | #14, #15 |
+| Qua 11/11 | Merge, tag `E2` e link no AVA, antes do início da aula | #15 |
+
+Se uma issue atrasar, avise na própria issue: a #14 só fecha depois das demais.
 
 ## Estrutura do repositório
 

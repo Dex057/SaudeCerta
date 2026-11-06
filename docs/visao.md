@@ -13,7 +13,7 @@
 | Marcus Carreira Júnior |
 | Vergílio Junior |
 
-**Repositório Git:** `https://github.com/Dex057/SaudeCerta`
+**Repositório Git:** `https://github.com/Dex057/equipe-02-saudecerta`
 
 ---
 
